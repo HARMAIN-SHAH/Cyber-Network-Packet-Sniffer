@@ -95,7 +95,7 @@ Cyber-Network-Packet-Sniffer
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Cyber-Network-Packet-Sniffer.git
+git clone https://github.com/HARMAIN-SHAH/Cyber-Network-Packet-Sniffer.git
 ```
 
 
