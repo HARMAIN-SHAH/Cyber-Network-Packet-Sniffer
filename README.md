@@ -146,28 +146,6 @@ Example:
 ping google.com
 ```
 
-
----
-
-## 📸 Screenshots
-
-### Application Interface
-
-(Add screenshot here)
-
-
-### Live Packet Capture
-
-(Add screenshot here)
-
-
-### Packet Logs
-
-(Add screenshot here)
-
-
----
-
 ## 🔐 Security Concepts Covered
 
 This project demonstrates:
